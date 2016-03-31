@@ -8,7 +8,7 @@
   <packaging>war</packaging>
   <name>barcode_ws</name>
   <description>API via webservice de consulta de produtos por c?digo de barras.</description>
-  <url>https://localhost:8080/barcode_ws</url>
+  <url>http://tetrati.com.br/barcode_ws</url>
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
